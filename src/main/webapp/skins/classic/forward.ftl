@@ -107,8 +107,8 @@
     <button onclick="window.location.replace('${forwardURL}')">确定</button>
 </div>
 <div>
-    <a href="https://github.com/b3log/symphony">GitHub</a> &nbsp;
-    <a href="https://b3log.org/" target="_blank" rel="noopener">B3log</a>
+    <a href="https://b3log.org/" target="_blank" rel="noopener">B3log</a
+    <a href="https://github.com/b3log/symphony">GitHub</a> &nbsp;>
 </div>
 <script>
     var S = {
